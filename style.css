@@ -1,7 +1,11 @@
  BODY
 {
   background-image: url("BMW M4 .jpeg");
- background-position: center;
+ background-position:center;
  }
- 
+ P
+{
+ text-align:left;
+ color:black;
+}
     
