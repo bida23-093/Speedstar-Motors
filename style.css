@@ -1,6 +1,9 @@
  BODY
 {
   background-image: url("BMW M4 .jpeg");
+ background-size: cover;
+ background-position: center;
+ background-attactment: fixed;
  }
  
     
