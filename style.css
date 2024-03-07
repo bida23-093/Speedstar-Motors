@@ -1,12 +1,19 @@
- BODY
-{
+ BODY{
   background-image: url("BMW M4 .jpeg");
  }
- P
-{
+ P{
   color:white
 }
-H1
-{
+H1{
   color:white
-}    
+}  
+NAV{
+ Clear:both;
+ margin-top: 1%;
+}
+NAV UL LI{
+ list-style: none;
+ display: inline;
+ margin: 2px 10px;
+ background: black;
+}
