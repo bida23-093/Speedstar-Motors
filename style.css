@@ -19,8 +19,6 @@ NAV UL LI{
  text-align:top right;
  font-weight:700;
  font-family:verdana;
+ padding:5px 10px;
 }
-NAV UL LI:HOVER{
- background:brown;
- color:brown;
-}
+
